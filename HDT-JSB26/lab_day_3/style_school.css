@@ -1,0 +1,123 @@
+body {
+  height: 895px;
+}
+
+.__body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  background-color: seashell;
+}
+
+#modau {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: darkcyan;
+}
+
+._main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: space-around;
+}
+
+._creator {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+._main___main1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+._introduce {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: space-around;
+  border: 5px solid black;
+  border-radius: 10px;
+  color: black;
+  width: 400px;
+  height: 705px;
+}
+
+._introduce__image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+._main___main2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: space-between;
+}
+
+._main__main2__main21 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+._main__main2__main22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+._main__main2__main21__lichsu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: space-around;
+  border: 5px solid black;
+  border-radius: 10px;
+  color: black;
+  width: 400px;
+  height: 340px;
+}
+
+.quymo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: space-around;
+  border: 5px solid black;
+  border-radius: 10px;
+  color: black;
+  width: 400px;
+  height: 319px;
+}
+
+.thanhtich {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: space-around;
+  border: 5px solid black;
+  border-radius: 10px;
+  color: black;
+  width: 400px;
+  height: 705px;
+}
+
+/*# sourceMappingURL=style_school.css.map */
