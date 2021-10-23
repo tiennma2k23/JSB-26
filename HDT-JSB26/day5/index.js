@@ -48,7 +48,7 @@ while (true)
             
             delete employee[pos-1];
             
-            employee.splice(pos-1,1);
+            //employee.splice(pos-1,1);
         }
     else 
     {
