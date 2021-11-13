@@ -1,0 +1,14 @@
+1,
+Var và let thì biến ta khai báo có thể thay đổi được giá trị.
+Ngược lại const để khai báo biến hằng ( ta không thể thay đổi giá trị của nó được);
+2,
+Có 2 cách để in kết quả ra màn hình là: alert() và console.log()
+3,
+Em đã cài rất nhiều thứ ví dụ như :
+-Auto close left bracket
+-Auto rename tag
+-Dracula Official
+-Github Pull Request and Issuel
+-Live server
+-Prettier
+.... (do em code cả C++ nên em cài hơn 30 cái :vv)
