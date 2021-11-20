@@ -51,6 +51,7 @@ function demnguoc() {
       _sec = 59;
       _min--;
       if (_min < 0) {
+        _min = 59;
         _hour--;
       }
     }
