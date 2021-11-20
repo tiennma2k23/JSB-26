@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dem_nguoc</title>
+    <link rel="stylesheet" href="style_clock.css">
+</head>
+<body>
+    
+    <div class="_Time ">
+        <h2>Khoảng thời gian bạn cần đếm ngược</h2>
+        <div class="get_time">
+            <div class="gio">
+                <span><input type="number" name="get_hours" id="get_hours"></span> <span>Giờ</span>
+            </div>
+            <div class="phut">
+                <span><input type="number" name="get_min" id="get_min"></span> <span>Phút</span>
+            </div>
+            <div class="giay">
+                <span><input type="number" name="get_sec" id="get_sec"></span> <span>Giây</span>
+            </div>
+            
+        </div>
+        <div class="sbm_btns">
+                <button type="submit" class="submit">Ok</button>
+        </div>
+        </div>
+    </div>
+    <div class="dong_ho">
+        <h2>Đồng hồ đếm ngược</h2>
+        <div class="timer">
+            <div>
+                <span id="hours">--</span><span>Giờ</span>
+            </div>
+            <div>
+                  <span id="minutes">--</span><span>Phút</span>
+            </div>
+            <div>
+                <span id="seconds">--</span><span>Giây</span>
+            </div>
+        </div>
+        <div class="bottomPart">
+            <div class="btns">  
+                <button class="reset">Reset</button>
+                <button class="start">Start</button>
+            </div>
+    </div>
+    <script src="clock.js"></script>
+</body>
+</html>
